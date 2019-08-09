@@ -39,8 +39,21 @@ G:\Django\Django_Projects\restaurant
 ## 3. Creating Our Meals App
 
 > (_env36214) λ python manage.py startapp app_meals
+
 > registering app_meals to the project
+
 > install Pillow for images 'pip install Pillow'
+
 > create Meals model
+
 > add meals
+
 > showing the meals name to admin
+
+## 4. Adding Slug in Meals
+
+> create a function to automatically add name of meals for slug
+
+> from admin, add new meal
+
+> modify Model name 'Mealss' to be human readable as 'Meals'
