@@ -57,3 +57,9 @@ G:\Django\Django_Projects\restaurant
 > from admin, add new meal
 
 > modify Model name 'Mealss' to be human readable as 'Meals'
+
+## 5. Setup Static & Media
+
+> add media root in settings
+
+> add path to project's url
