@@ -1,8 +1,12 @@
-## Section 2: Create Our Restaurant Project
+# Section 1: Introduction
 
-# 2. Creating Our Restaurant Project
+## 1. Introduction
 
-1. Create Django Project
+# Section 2: Create Our Restaurant Project
+
+## 2. Creating Our Restaurant Project
+
+2. Creating Our Restaurant Project
 
 1.1. Create Django Project
 
@@ -31,3 +35,12 @@ G:\Django\Django_Projects\restaurant
 1.3 Run the server
 
 (_env36214) λ python manage.py runserver
+
+## 3. Creating Our Meals App
+
+> (_env36214) λ python manage.py startapp app_meals
+> registering app_meals to the project
+> install Pillow for images 'pip install Pillow'
+> create Meals model
+> add meals
+> showing the meals name to admin
